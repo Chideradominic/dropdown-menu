@@ -41,11 +41,12 @@
   gap: 10px;
   list-style: none;
   box-sizing: border-box;
+  position: relative;
 
 }
 .options svg{
   position: absolute;
-   left:180px;
+   left:12px;
 }
 .options:hover{
   background: rgba(255,255,255,0.7);
